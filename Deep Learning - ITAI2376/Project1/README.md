@@ -152,26 +152,26 @@ To run your own query, see the [How to run](#how-to-run) section above.
 ### Example 1 — Emergency dispatch query
 
 **Input:**
-![Scenario 1 input](screenshots/scenario1_code.png)
+![Scenario 1 input](results/scenario1_code.png)
 
 **Output:**
-![Scenario 1 output](screenshots/scenario1_answer.png)
+![Scenario 1 output](results/scenario1_answer.png)
 
 ### Example 2 — Multi-crossing risk scan
 
 **Input:**
-![Scenario 2 input](screenshots/scenario2_code.png)
+![Scenario 2 input](results/scenario2_code.png)
 
 **Output:**
-![Scenario 2 output](screenshots/scenario2_answer.png)
+![Scenario 2 output](results/scenario2_answer.png)
 
 ### Example 3 — City planner infrastructure analysis
 
 **Input:**
-![Scenario 3 input](screenshots/scenario3_code.png)
+![Scenario 3 input](results/scenario3_code.png)
 
 **Output:**
-![Scenario 3 output](screenshots/scenario3_answer.png)
+![Scenario 3 output](results/scenario3_answer.png)
 
 ---
 
