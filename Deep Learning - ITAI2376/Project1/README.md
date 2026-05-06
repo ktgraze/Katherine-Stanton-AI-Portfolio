@@ -30,7 +30,7 @@ This agent follows a structured  pipeline:
 It uses historical data from the FRA Blocked Crossings Portal [dataset](https://www.fra.dot.gov/blockedcrossings/incidents), filtered to Houston, Texas between January 1, 2020 and April 20, 2026, yielding 20,783 raw records. After preprocessing and cleaning, the dataset was reduced to 16,864 Union Pacific-exclusive records (accounting for 98.3% of the original dataset), which were then used to train the GRU deep learning model. The GRU model predicts blockage probability on a scale of 0 to 1, with 0 being a low probability and 1 being the highest probability. A risk classifier then applies static thresholds to assign LOW, MEDIUM, or HIGH risk to an event. LangChain's AgentExecutor, powered by GPT-3.5 Turbo, manages the ReAct reasoning loop which determines which tools to select and responds to user queries. Five tools were defined and registered for the LangChain agent: `gru_prediction_tool`, `crossing_info_tool`, `high_risk_crossings_tool`, `crossing_history_tool`, and `street_lookup_tool`, and session memory was retained via LangChain's `ConversationBufferMemory`. The agent synthesizes a natural language response based on the risk assessment. Emergency dispatchers receive proactive alerts, while city planners can query historical blockage patterns and crossing statistics to support infrastructure decisions.
 
 ### Architecture Diagram
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](results/visualizations/architecture.png)
 
 ## Frameworks and Tools
 
