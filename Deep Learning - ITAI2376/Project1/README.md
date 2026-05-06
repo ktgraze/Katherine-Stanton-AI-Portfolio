@@ -199,3 +199,13 @@ The demo covers:
 - Scenario 1 — Emergency dispatch query (Leeland Street, 6pm Friday)
 - Scenario 2 — Multi-crossing risk scan (Monday 8am, East End)
 - Scenario 3 — City planner infrastructure analysis (Eastwood Street)
+
+## Results and Evaluation
+[Model Metrics](results/visualizations/metrics.png)
+
+## Learning Outcomes
+- Working with real-world, messy time-series data
+- Building and tuning a GRU model for binary classification
+- Integrating a deep learning model into an LLM agent pipeline with LangChain
+- Prompt engineering and ReAct reasoning patterns
+- Threshold tuning for risk-sensitive applications
