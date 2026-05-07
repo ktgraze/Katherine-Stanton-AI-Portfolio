@@ -61,7 +61,6 @@ I am an Applied AI & Robotics student at Houston City College with hands-on expe
 | **Deep Learning** | Designed and trained deep neural networks including CNNs, RNNs, and GRUs using PyTorch, with applications in time-series prediction and AI agent development. |
 | **Data Science in AI** | Applied statistical analysis, data wrangling, visualization, and exploratory data analysis techniques to real-world datasets using Pandas and NumPy. |
 | **Programming Fundamentals (Python)** | Built a strong foundation in Python programming including data structures, object-oriented programming, and scripting for AI applications. |
-| **AI in Cybersecurity** | Examined the application of machine learning and AI techniques to threat detection, anomaly detection, and cybersecurity defense strategies. |
 | **Computer Vision** | Implemented image classification, object detection, and feature extraction pipelines using OpenCV and convolutional neural networks. |
 | **Robot Operating System & Platforms** | Gained hands-on experience with ROS for robot programming, sensor integration, and autonomous system development. |
 | **AI Applications & Case Histories** | Surveyed real-world AI deployments across industries including healthcare, finance, and civic infrastructure, analyzing both technical and ethical dimensions. |
@@ -75,15 +74,18 @@ I am an Applied AI & Robotics student at Houston City College with hands-on expe
 Katherine-Stanton-AI-Portfolio/
 ├── README.md
 ├── Deep-Learning-ITAI2376/
+    └──Project 1
 ├── AI-Applications-ITAI2277/
+    └──Project 1
 ├── Machine-Learning/
 ├── NLP/
 ├── Data-Science-AI/
+    └── Project 1
 ├── Python-Fundamentals/
-├── AI-Cybersecurity/
 ├── Computer-Vision/
 ├── ROS-Robotics/
 ├── AI-Resources/
+    └──Project 1
 └── Presentation/
     └── Pf_KatherineStanton_ITAI2376.pdf
 ```
@@ -99,5 +101,3 @@ Katherine-Stanton-AI-Portfolio/
 | 🐙 GitHub | [github.com/ktgraze](https://github.com/ktgraze) |
 
 ---
-
-*This portfolio was developed as part of the Applied AI & Robotics Program at Houston City College.*
