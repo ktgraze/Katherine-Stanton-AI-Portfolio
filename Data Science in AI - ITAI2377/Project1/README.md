@@ -2,7 +2,7 @@
 
 **Course:** ITAI2377 — Data Science in AI  
 **Group:** Icarus Squad  
-**Team Members:** Oyinade Balogun · Francisco Medina Diaz · Rodrigo Sierra · Katherine Stanton
+**Team Members:** Oyinade Balogun · Francisco Medina Diaz · Rodrigo Sierra · **Katherine Stanton**
 
 ---
 
