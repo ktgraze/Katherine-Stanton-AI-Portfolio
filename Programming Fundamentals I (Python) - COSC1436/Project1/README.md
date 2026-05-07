@@ -1,4 +1,4 @@
-# Magic 8-Ball
+# Magic 8-Ball 🎱
 ### Programming Fundamentals (Python) | Houston City College
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
