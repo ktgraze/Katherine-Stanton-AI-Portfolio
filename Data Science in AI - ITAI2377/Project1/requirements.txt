@@ -1,0 +1,50 @@
+
+# HALO — Domain-Specific RAG Marketing Assistant for Hairstylists
+# Requirements and Dependencies
+# Course: ITAI2377 | Group: Icarus Squad
+#
+# Install all dependencies:
+# pip install -r requirements.txt
+#
+# Then download the spaCy language model:
+# python -m spacy download en_core_web_sm
+#
+# All notebooks run in Google Colab (free tier).
+# T4 GPU runtime recommended for Notebook 1 Step 8 (embedding generation).
+ 
+# ── Vector Database ────────────────────────────────────────────
+chromadb>=0.4.0
+ 
+# ── Embeddings ─────────────────────────────────────────────────
+sentence-transformers>=2.2.0
+ 
+# ── NLP Utilities ──────────────────────────────────────────────
+nltk>=3.8.0
+spacy>=3.7.0
+# After installing spacy, run: python -m spacy download en_core_web_sm
+ 
+# ── LangChain (used in pipeline orchestration) ─────────────────
+langchain>=0.1.0
+langchain-community>=0.0.20
+ 
+# ── LLM API Client ─────────────────────────────────────────────
+# Groq is used for synthetic content generation (Notebook 1)
+# and response generation (Notebooks 2 and 3)
+groq>=0.4.0
+ 
+# ── Web Scraping (Notebook 1 — Step 2.5) ───────────────────────
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+trafilatura>=1.6.0
+ 
+# ── Frontend Interface (Notebook 3) ────────────────────────────
+gradio>=4.0.0
+ 
+# ── Data Science and Visualization ─────────────────────────────
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+ 
+# ── Utilities ──────────────────────────────────────────────────
+tqdm>=4.65.0
