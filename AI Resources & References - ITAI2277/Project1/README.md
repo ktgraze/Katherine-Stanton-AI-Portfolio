@@ -16,13 +16,13 @@ The TriagePal agent is deployed on **Streamlit Community Cloud** and ready for r
 ## Screenshots
 
 ### Home Screen - Upload Interface
-![Home Screen](/images/Home%20Screen.png)
+![Home Screen](images/Home%20Screen.png)
 
 ### Analysis Results - Summary & Report
-![Results Screen](/images/Results%20Screen.png)
+![Results Screen](images/Results%20Screen.png)
 
 ### Recent Analyses Table
-![Recent Analyses](/images/Recent%20Analyses.png)
+![Recent Analyses](images/Recent%20Analyses.png)
 
 ---
 
