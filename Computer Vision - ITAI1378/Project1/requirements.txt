@@ -1,1 +1,9 @@
+tensorflow
+tensorflow-hub
+tensorflow-datasets
+numpy
+matplotlib
+opencv-python
+Pillow
+requests
 
