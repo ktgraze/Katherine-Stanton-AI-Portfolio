@@ -78,12 +78,17 @@ Katherine-Stanton-AI-Portfolio/
 ├── AI-Applications-ITAI2277/
     └──Project 1
 ├── Machine-Learning/
+    └── Project 1
 ├── NLP/
+    └── Project 1
 ├── Data-Science-AI/
     └── Project 1
 ├── Python-Fundamentals/
+    └── Project 1
 ├── Computer-Vision/
+    └── Project 1
 ├── ROS-Robotics/
+    └── Project 1
 ├── AI-Resources/
     └──Project 1
 └── Presentation/
