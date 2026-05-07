@@ -1,4 +1,4 @@
-# HALO — Domain-Specific RAG Marketing Assistant for Hairstylists
+# HALO — Domain-Specific RAG Marketing Assistant for Hairstylists 💇‍♀️
 
 **Course:** ITAI2377 — Data Science in AI  
 **Group:** Icarus Squad  
