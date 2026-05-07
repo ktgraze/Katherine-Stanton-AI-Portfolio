@@ -7,13 +7,13 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I am an Applied AI & Robotics student at Houston City College with hands-on experience building intelligent systems across machine learning, deep learning, natural language processing, computer vision, robotics, and cybersecurity. My work focuses on applying AI to real-world problems — from predicting railroad crossing blockages that endanger emergency responders, to building multi-modal healthcare triage agents. I am passionate about civic applications of AI and building tools that serve communities.
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### 🚂 Houston Railroad Crossing Blockage Prediction Agent
 > A LangChain AI agent powered by a GRU deep learning model that predicts the probability of railroad crossing blockages in Houston, TX — proactively alerting emergency dispatchers and city planners based on real FRA data.
@@ -25,7 +25,7 @@ I am an Applied AI & Robotics student at Houston City College with hands-on expe
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Frameworks & Libraries**
 ![PyTorch](https://img.shields.io/badge/PyTorch-orange)
@@ -52,7 +52,7 @@ I am an Applied AI & Robotics student at Houston City College with hands-on expe
 
 ---
 
-## 📚 Courses
+## Courses
 
 | Course | Description |
 |--------|-------------|
@@ -68,7 +68,7 @@ I am an Applied AI & Robotics student at Houston City College with hands-on expe
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Katherine-Stanton-AI-Portfolio/
@@ -92,7 +92,7 @@ Katherine-Stanton-AI-Portfolio/
 
 ---
 
-## 📬 Contact
+## Contact
 
 | | |
 |---|---|
